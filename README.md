@@ -1,6 +1,11 @@
 <h2>Hello there!👋  I'm Jaehoon Jung</h2>
 <hr><br>
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py)](https://skillicons.dev)
+
+[![Linkedin: jjhoon0310](https://img.shields.io/badge/-jjhoon0310-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjhoon0310-p-singh/)](https://www.linkedin.com/in/jjhoon0310/)
+![GitHub followers](https://img.shields.io/github/followers/jjhoon0310?label=Follow&style=social)
+
 ```javascript
 const jaehoon = {
     pronouns: "He" | "Him",
@@ -30,13 +35,14 @@ const jaehoon = {
 };
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py)](https://skillicons.dev)
+<a href="https://git.io/streak-stats">
+  <img align="left" src="https://streak-stats.demolab.com?user=jjhoon0310&theme=github-dark-blue&hide_border=true" />
+</a>
 
-[![Linkedin: jjhoon0310](https://img.shields.io/badge/-jjhoon0310-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjhoon0310-p-singh/)](https://www.linkedin.com/in/jjhoon0310/)
-![GitHub followers](https://img.shields.io/github/followers/jjhoon0310?label=Follow&style=social)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjhoon0310&hide_border=true&show_icons=true&theme=github_dark" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jjhoon0310&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-![jjhoon0310's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjhoon0310&hide_border=true&show_icons=true&theme=github_dark)
-
-![jjhoon0310's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjhoon0310&hide_border=true&theme=github_dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhoon0310&hide_border=true&theme=github_dark&layout=compact" />
+</a>
