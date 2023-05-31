@@ -1,5 +1,5 @@
 <h2>Hello there!👋  I'm Jaehoon Jung</h2>
-<hr><br>
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py)](https://skillicons.dev)
 
