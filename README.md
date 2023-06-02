@@ -17,7 +17,7 @@ const jaehoon = {
         "Game Development",
         "Machine Learning",
         "IT Counseling",
-        "Economics",
+        "Economics"
     ],
 
     education: [
@@ -26,11 +26,15 @@ const jaehoon = {
     ],
 
     experience: [
-        (intern1 = "Lucentblock - Learn how to operate a project"),
-        (intern2 = "PIA Space - Counselling the electronic car industry"),
+        (intern1 = "Lucentblock - Learn how to operate a project" && "Experience how a real business program"),
+        (intern2 = "PIA Space - Counselling and predicting the electronic car industry"),
+    ],
+    
+    strength: [
+        
     ],
 
-    currently_learning: ["Express.js", "mongoDB"],
+    currently_learning: ["Express.js", "mongoDB", "react.js"],
     current_goals: ["Making a full-stack website"],
 };
 ```
