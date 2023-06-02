@@ -1,5 +1,4 @@
 <h2>Hello there!👋  I'm Jaehoon Jung</h2>
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py)](https://skillicons.dev)
 
@@ -31,7 +30,9 @@ const jaehoon = {
     ],
     
     strength: [
-        
+        "Teamwork",
+        "Problem Solving",
+        "Communicaton with Korean and English"
     ],
 
     currently_learning: ["Express.js", "mongoDB", "react.js"],
